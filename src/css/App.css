@@ -1,0 +1,20 @@
+html{
+    display: flex;
+    height: 100%;
+    width: 100%;
+}
+
+body{
+    display: flex;
+    flex: 1
+}
+
+#root{
+    display: flex;
+    flex: 1
+}
+
+.App{
+    display: flex;
+    flex: 1
+}
