@@ -1,5 +1,5 @@
 # NodeJS Backend App - Starter
-React app with Redux, Routes and absolute path set up.
+React app with Redux, Routes and absolute path set up. Ready to use with Flexbox web layout model.
 
 # Minimum Dependencies
 [NodeJS](https://nodejs.org/en/download/) \
